@@ -22,7 +22,6 @@ public class Stock {
 	 */
 	public static void main(String[] args) throws FileNotFoundException,
 			UnsupportedEncodingException {
-		// TODO Auto-generated method stub
 		double money = 2000;
 		int shares = 0;
 		String choice = "";
